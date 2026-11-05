@@ -7,7 +7,7 @@
 
 ## 🌐 دمو زنده (Live Demo)
 می‌توانید نسخه آنلاین و تعاملی این پروژه را در لینک زیر مشاهده کنید:
-Customer Churn Predictor Live App
+https://customer-churn-prediction-fe75.onrender.com
 ## 📁 ساختار پروژه
 - `notebooks/`: شامل تحلیل داده‌های اکتشافی (EDA) و مدل‌سازی.
 - `app/`: داشبورد تعاملی ساخته‌شده با Streamlit.
