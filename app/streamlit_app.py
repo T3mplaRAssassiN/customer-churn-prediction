@@ -8,8 +8,7 @@ st.set_page_config(page_title="Churn Predictor", page_icon="📊", layout="wide"
 st.title("📊 پیش‌بینی ریزش مشتریان")
 
 # پیدا کردن مسیر فایل مدل
-current_dir = os.path.dirname(os.path.abspath(__file__))
-model_path = os.path.join(current_dir, 'models', 'churn_model.pkl')
+model_path = 'models/churn_model.pkl'
 
 # لود مدل
 @st.cache_resource
